@@ -11,11 +11,12 @@ This folder contains notes and concepts learned while completing Module 1 of the
 
 ## Key Topics
 
-* Cybersecurity Governance
-* Ethics
-* Computer Ethics
-* Cybercrime
-* Privacy Laws
-* Compliance Frameworks
-* Data Protection
-* Risk Management
+- Cybersecurity Governance
+- Risk Management
+- Compliance
+- Ethics
+- Computer Ethics
+- Cybercrime
+- Privacy Laws
+- Data Protection
+- Security Policies
