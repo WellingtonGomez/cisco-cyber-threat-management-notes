@@ -1,0 +1,32 @@
+# Module 1 - Governance and Compliance
+
+## Governance
+- Defines cybersecurity accountability
+- Aligns security with business goals
+- Helps manage cyber risks
+
+## Important Roles
+### Data Owner
+Responsible for data ownership and classification.
+
+### Data Custodian
+Maintains and protects systems storing data.
+
+### Data Protection Officer
+Ensures privacy law compliance.
+
+## Cybersecurity Policies
+- Password Policy
+- Acceptable Use Policy
+- Remote Access Policy
+- Incident Handling Policy
+
+## Human Resources Security
+
+- Security awareness training helps prevent phishing attacks.
+- User access controls enforce the need-to-know principle.
+- IDS/IPS monitoring helps detect unauthorized software downloads.
+- Monitor abnormal employee behavior to identify policy violations.
+
+## Key Takeaway
+Strong governance, security policies, and user controls help organizations protect data, reduce cyber risks, and maintain compliance.
