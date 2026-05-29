@@ -22,7 +22,11 @@ Notes, labs, and cybersecurity concepts learned while completing the Cisco Cyber
 
 ## Repository Structure
 
+## Repository Structure
+
+```text
 Module-1/
 ├── Module-1.1-Governance.md
 ├── Module-1.2-Ethics-of-Cybersecurity.md
 └── README.md
+```
