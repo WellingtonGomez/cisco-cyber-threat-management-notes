@@ -4,7 +4,7 @@ This folder contains notes and concepts learned while completing Module 1 of the
 
 ## Contents
 
-* Module 1.3
+* Module 1.1: Governance
 - [Module 1.2 - Ethics of Cybersecurity](./Module-1.2-Ethics-of-Cybersecurity.md)
 * Module 1.3
 * Module 1.4
