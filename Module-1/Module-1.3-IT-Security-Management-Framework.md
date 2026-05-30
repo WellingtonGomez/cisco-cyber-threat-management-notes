@@ -1,5 +1,3 @@
-# Cisco Cyber Threat Management
-
 ## Module 1.3 – IT Security Management Framework
 
 ### 📌 Key Concepts
