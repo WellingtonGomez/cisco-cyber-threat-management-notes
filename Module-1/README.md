@@ -4,9 +4,9 @@ This folder contains notes and concepts learned while completing Module 1 of the
 
 ## Contents
 
-- ✅ [Module 1.1 – Governance](./Module-1.1-Governance.md)
-- ✅ [Module 1.2 – Ethics of Cybersecurity](./Module-1.2-Ethics-of-Cybersecurity.md)
-- ⬜ Module 1.3
+- ✅ [Module 1.1 – Governance](Module-1.1-Governance.md)
+- ✅ [Module 1.2 – Ethics of Cybersecurity](Module-1.2-Ethics-of-Cybersecurity.md)
+- ✅ [Module 1.3 – IT Security Management Framework](Module-1.3-IT-Security-Management-Framework.md)
 - ⬜ Module 1.4
 
 ## Key Topics
@@ -20,3 +20,14 @@ This folder contains notes and concepts learned while completing Module 1 of the
 - Privacy Laws
 - Data Protection
 - Security Policies
+- ISO/IEC 27000 Framework
+- Information Security Management Systems (ISMS)
+- The 12 Domains of Cybersecurity
+- Access Control
+- Business Continuity
+- Incident Management
+- CIS Critical Security Controls
+- NIST Cybersecurity Workforce Framework
+- Cloud Security Alliance (CSA)
+- Cloud Controls Matrix (CCM)
+- Cybersecurity Careers
