@@ -20,3 +20,11 @@ Notes, labs, and cybersecurity concepts learned while completing the Cisco Cyber
 - Ethics in Cybersecurity
 - Security Policies
 - Privacy Regulations
+- ISO/IEC 27000 Framework
+- Information Security Management Systems (ISMS)
+- Access Control
+- Incident Management
+- Business Continuity
+- CIS Critical Security Controls
+- NIST Workforce Framework
+- Cloud Security Concepts
