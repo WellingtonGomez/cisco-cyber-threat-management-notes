@@ -16,21 +16,15 @@ This folder contains notes and concepts learned while completing Module 1 of the
 
 - Cybersecurity Governance
 - Risk Management
-- Compliance
-- Ethics
-- Computer Ethics
-- Cybercrime
-- Privacy Laws
-- Data Protection
 - Security Policies
-- ISO/IEC 27000 Framework
-- Information Security Management Systems (ISMS)
-- The 12 Domains of Cybersecurity
+- Compliance & Regulations
+- Cybersecurity Ethics
+- Cybercrime & Privacy Laws
+- Data Protection
 - Access Control
-- Business Continuity
 - Incident Management
-- CIS Critical Security Controls
-- NIST Cybersecurity Workforce Framework
-- Cloud Security Alliance (CSA)
-- Cloud Controls Matrix (CCM)
-- Cybersecurity Careers
+- Business Continuity
+- ISO 27000 Framework
+- NIST Framework
+- CIS Controls
+- Cloud Security (CSA)
