@@ -15,8 +15,7 @@ This module covers basic cybersecurity assessment tools and concepts.
 
 ## Vulnerability Scanners
 
-Vulnerability scanners identify weaknesses in systems such as:
-
+Tools that find weaknesses in systems such as:
 - Weak passwords  
 - Missing updates  
 - Open ports  
@@ -32,9 +31,8 @@ Examples: Nessus, Nmap
 - Application scans → check app security  
 - Web scans → find website issues  
 
-Scan types:
-- Credentialed → deeper scan  
-- Non-credentialed → external view  
+Credentialed scans = deeper and more accurate  
+Non-credentialed scans = external view  
 
 ---
 
@@ -51,21 +49,20 @@ Scan types:
 
 ## SIEM vs SOAR
 
-**SIEM**
-- Detects and monitors threats  
+SIEM:
+- Detects threats  
 - Collects logs  
-- Generates alerts  
+- Sends alerts  
 
-**SOAR**
+SOAR:
 - Automates responses  
 - Handles incidents  
-- Improves efficiency  
 
 ---
 
 ## Key Takeaways
 
-- Vulnerability scanners find system risks  
+- Vulnerability scanners identify system risks  
 - Command tools help with troubleshooting  
 - SIEM = detect threats  
 - SOAR = respond automatically  
