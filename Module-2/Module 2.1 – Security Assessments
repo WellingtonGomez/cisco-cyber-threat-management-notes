@@ -1,68 +1,39 @@
 # Module 2.1 – Security Assessments
 
-This module covers basic cybersecurity assessment tools and concepts.
-
----
-
-## Contents
-
-- Vulnerability Scanners  
-- Types of Scans  
-- Command Line Tools  
-- SIEM vs SOAR  
-
----
+## Overview
+Basic cybersecurity tools and concepts used to assess system security.
 
 ## Vulnerability Scanners
+Identify weaknesses in systems:
+- Weak passwords
+- Missing patches
+- Open ports
+- Misconfigurations
 
-Tools that find weaknesses in systems such as:
-- Weak passwords  
-- Missing updates  
-- Open ports  
-- Misconfigurations  
-
-Examples: Nessus, Nmap  
-
----
+Examples: Nessus, Nmap
 
 ## Types of Scans
+- Network scans → devices and ports
+- Application scans → app security
+- Web scans → website issues
 
-- Network scans → find devices and ports  
-- Application scans → check app security  
-- Web scans → find website issues  
-
-Credentialed scans = deeper and more accurate  
-Non-credentialed scans = external view  
-
----
+Credentialed = deeper scan  
+Non-credentialed = external view
 
 ## Command Line Tools
-
-- ping → test connection  
-- ipconfig → network info  
-- tracert → route tracking  
-- nslookup → DNS lookup  
-- netstat → open connections  
-- nmap → network scanning  
-
----
+- ping → test connection
+- ipconfig → network info
+- tracert → route tracking
+- nslookup → DNS lookup
+- netstat → open connections
+- nmap → network scanning
 
 ## SIEM vs SOAR
-
-SIEM:
-- Detects threats  
-- Collects logs  
-- Sends alerts  
-
-SOAR:
-- Automates responses  
-- Handles incidents  
-
----
+SIEM → detects and monitors threats  
+SOAR → automates response and handling
 
 ## Key Takeaways
-
-- Vulnerability scanners identify system risks  
-- Command tools help with troubleshooting  
-- SIEM = detect threats  
-- SOAR = respond automatically  
+- Scanners find system risks early
+- Tools help troubleshoot networks
+- SIEM = detection
+- SOAR = response
