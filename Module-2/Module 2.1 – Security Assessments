@@ -15,7 +15,8 @@ This module covers basic cybersecurity assessment tools and concepts.
 
 ## Vulnerability Scanners
 
-Tools that find weaknesses in systems such as:
+Vulnerability scanners identify weaknesses in systems such as:
+
 - Weak passwords  
 - Missing updates  
 - Open ports  
@@ -37,7 +38,7 @@ Scan types:
 
 ---
 
-## Command Tools
+## Command Line Tools
 
 - ping → test connection  
 - ipconfig → network info  
@@ -53,7 +54,7 @@ Scan types:
 **SIEM**
 - Detects and monitors threats  
 - Collects logs  
-- Sends alerts  
+- Generates alerts  
 
 **SOAR**
 - Automates responses  
@@ -64,7 +65,7 @@ Scan types:
 
 ## Key Takeaways
 
-- Vulnerability scanners identify system risks  
-- Command tools help troubleshoot networks  
+- Vulnerability scanners find system risks  
+- Command tools help with troubleshooting  
 - SIEM = detect threats  
 - SOAR = respond automatically  
