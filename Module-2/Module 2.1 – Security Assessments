@@ -1,0 +1,46 @@
+# Module 2.1 – Security Assessments
+
+## Overview
+This module covers basic cybersecurity assessment tools and concepts.
+
+---
+
+## Vulnerability Scanners
+Tools that find weaknesses in systems like:
+- Weak passwords  
+- Missing updates  
+- Open ports  
+- Misconfigurations  
+
+Examples: Nessus, Nmap
+
+---
+
+## Types of Scans
+- Network scans → find devices and ports  
+- Application scans → check app security  
+- Web scans → find website issues  
+
+---
+
+## Command Tools
+- ping → test connection  
+- ipconfig → network info  
+- tracert → route tracking  
+- nslookup → DNS lookup  
+- netstat → open connections  
+- nmap → network scan  
+
+---
+
+## SIEM vs SOAR
+- SIEM → detects and monitors threats  
+- SOAR → automates responses  
+
+---
+
+## Key Takeaways
+- Scanners find vulnerabilities  
+- Tools help troubleshoot networks  
+- SIEM = detect  
+- SOAR = respond  
